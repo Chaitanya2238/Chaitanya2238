@@ -58,14 +58,7 @@ me.sayHi();
 
 ### Get in touch:
 
-<a href="https://twitter.com/mvtasim77" target="_blank">
-  <img 
-    align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"     
-    alt="TwitterIcon" 
-    height="30" 
-    width="40" />
-</a>
+
 
 <a href="https://discordapp.com/users/mvtasim" target="_blank">
   <img 
