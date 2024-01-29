@@ -52,7 +52,7 @@ me.sayHi();
 
 
 
-<a href="https://discordapp.com/users/mvtasim" target="_blank">
+<a href="https://discordapp.com/users/1051886880284749844" target="_blank">
   <img 
     align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"     
@@ -62,7 +62,7 @@ me.sayHi();
 </a>
 
 
-<a href="https://github.com/mutasim77" target="_blank">
+<a href="https://github.com/Chaitanya2238" target="_blank">
   <img 
     align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"     
