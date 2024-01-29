@@ -42,6 +42,7 @@ me.sayHi();
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Yarn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="<a href="https://iconscout.com/icons/python" class="text-underline font-size-sm" target="_blank">python</a> by <a href="https://iconscout.com/contributors/maninderkaur" class="text-underline font-size-sm">maninderkaur</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" style="padding-right:10px;" />
 
 
 </br>
