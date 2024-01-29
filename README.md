@@ -76,14 +76,6 @@ me.sayHi();
     width="40" />
 </a>
 
-<a href="https://reddit.com/user/mvtasim">
-    <img 
-    align="center" 
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/96326525/271745905-a912302c-3541-4bdd-b2e1-e100ed1ecaa7.svg"     
-    alt="RedditIcon" 
-    height="30" 
-    width="40" />
-</a>
 
 <a href="https://github.com/mutasim77" target="_blank">
   <img 
