@@ -17,7 +17,7 @@ class Front-BackEndDeveloper {
         this.age = 21;
         this.role = "Software Developer";
         this.contact = "guptadivya958@gmail.com"
-        this.language_spoken = ["en", "hi", "fa"];
+        this.language_spoken = ["en", "hi"];
     }
 
     sayHi() {
